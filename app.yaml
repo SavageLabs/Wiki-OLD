@@ -1,0 +1,5 @@
+service: docs
+env: flex
+runtime: custom
+manual_scaling:
+  instances: 1

@@ -1,0 +1,3 @@
+dispatch:
+  - url: docs.illyria.io/*
+    service: docs

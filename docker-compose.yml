@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  app: #name of your service
+    build: ./ # specify the directory of the Dockerfile
+    restart: always
+    container_name: mkdocs
+    ports:
+      - "8080:8080" #specify ports forwarding
+    

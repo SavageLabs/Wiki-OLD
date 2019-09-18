@@ -1,0 +1,16 @@
+site_name: Illyria Documentation
+nav:
+  - 'Introduction': 'index.md'
+  - illyriaFactions:
+    - Home: illyriafactions/index.md
+    - Commands: illyriafactions/commands.md
+    - DefaultPermissions: illyriafactions/defaultperms.md
+    - Permissions: illyriafactions/permissions.md
+    - ConfigurableMap: illyriafactions/configurablemap.md
+    - 'Skript Integration': illyriafactions/skriptintegration.md
+    - Claiming-System-Factions: illyriafactions/systemfactionclaiming.md
+    - FactionsAPI: illyriafactions/factionsapi.md
+    - Installation: illyriafactions/installation.md
+dev_addr: '0.0.0.0:8080' 
+theme:
+  name: 'material'
