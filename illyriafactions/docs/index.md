@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# Welcome to the Factions Wiki
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+-
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Commands
+An explanation of commands can be found at the [commands page](commands.md).
+
+### Default Permissions
+A guide on how default permissions work & what each one does can be found at the [default permissions page](defaultperms.md).
+
+### Claiming Warzone/Safezone
+Confused on how to claim warzone/safezone or system factions? No problem. Head over to the [system factions page](systemfactionclaiming.md).
+
+### Installation
+Need help with installation? Check out the [installation guide](installation.md).
+
+### Permissions
+Want to configure permissions? Read the [permissions page](permissions.md).
+
+### Factions API
+Making a plugin to hook into factions? Check out the [factions developer guide](factionsapi.md).
+
+### Skript Integration
+Using skript? Check out the [skript integration guide](skriptintegration.md).
+
+### Configurable Map
+Want to configure the map characters? [Map Configuration Guide](configurablemap.md).
