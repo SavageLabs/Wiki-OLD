@@ -11,6 +11,7 @@ nav:
     - Claiming-System-Factions: illyriafactions/systemfactionclaiming.md
     - FactionsAPI: illyriafactions/factionsapi.md
     - Installation: illyriafactions/installation.md
-dev_addr: '0.0.0.0:8080' 
+    - Default Files : illyriafactions/defaultfiles.md
+dev_addr: '0.0.0.0:8080'
 theme:
   name: 'material'
