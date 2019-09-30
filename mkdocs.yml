@@ -12,6 +12,12 @@ nav:
     - FactionsAPI: illyriafactions/factionsapi.md
     - Installation: illyriafactions/installation.md
     - Default Files : illyriafactions/defaultfiles.md
+  - illyriaCore:
+    - Home: illyriacore/index.md
+    - 'Getting Started': illyriacore/gettingstarted.md
+    - Features: illyriacore/features.md
+    - Permissons: illyriacore/permissons.md
+    - Default Files : illyriacore/defaultfiles.md
 dev_addr: '0.0.0.0:8080'
 theme:
   name: 'material'
