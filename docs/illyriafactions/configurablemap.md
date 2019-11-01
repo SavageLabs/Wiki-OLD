@@ -1,4 +1,5 @@
-#Configureable Map
+#illyriaFactions
+###Configureable Map
 
 The Factions Map was changed into a block based map system, causing some people to want to revert back.
 Open "/plugins/Factions/conf.json" in your favorite text editor.

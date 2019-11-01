@@ -1,4 +1,5 @@
-#Installation
+#illyriaFactions
+###Installation
 
 Installing SavageFactions is easier than you think, here are a few easy steps to get you up and running.
 

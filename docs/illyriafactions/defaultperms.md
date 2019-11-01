@@ -1,4 +1,5 @@
-# Default Permissions
+#illyriaFactions
+###Default Permissions
 This page aims to tell you how to set up default permissions on your Factions server, in SavageFactions.
 
 > Version Requirement

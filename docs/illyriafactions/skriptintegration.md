@@ -1,4 +1,5 @@
-#Skript Integration
+#illyriaFactions
+###Skript Integration
 
 If Skript is found in the server, SavageFactions will automatically register as a skript addon. There is no need to get external jars for it. You will get a message in the enable for Factions that the skript addon was registered.
 

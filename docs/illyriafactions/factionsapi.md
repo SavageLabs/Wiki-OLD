@@ -1,4 +1,5 @@
-#Factions API
+#illyriaFactions
+###Factions API
 
 Factions has a massive in-depth API with everything you need to make addons or dependencies.
 
