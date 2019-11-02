@@ -1,4 +1,4 @@
-#illyriaCollectors
+#illyriaFactions
 ##Placeholders
 
 ###Full Permissions List
