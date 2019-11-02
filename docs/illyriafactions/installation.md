@@ -1,7 +1,5 @@
 #illyriaFactions
-###Installation
-
-Installing SavageFactions is easier than you think, here are a few easy steps to get you up and running.
+##Installation
 
 1. Download Essentials & Vault as they are required dependencies and the plugin will not run without them.
 1. Download CoreProtect if you would like /f inspect functionality, make sure to get the version corresponding to your spigot version.
