@@ -2,144 +2,144 @@
 ## Commands:
 > /f create - 
 
-> /f who - 
+> /f who -
 
-> /f tag - 
+> /f tag -
 
-> /f join - 
+> /f join -
 
-> /f list - 
+> /f list -
 
-> /f top - 
+> /f top -
 
-> /f sethome - 
+> /f sethome -
 
-> /f home - 
+> /f home -
 
-> /f ahome - 
+> /f ahome -
 
-> /f title - 
+> /f title -
 
-> /f ban - 
+> /f ban -
 
-> /f unban - 
+> /f unban -
 
-> /f banlist - 
+> /f banlist -
 
-> /f lowpower - 
+> /f lowpower -
 
-> /f showclaims - 
+> /f showclaims -
 
-> /f leave - 
+> /f leave -
 
-> /f invite - 
+> /f invite -
 
-> /f deinvite - 
+> /f deinvite -
 
-> /f claim - 
+> /f claim -
 
-> /f unclaim - 
+> /f unclaim -
 
-> /f kick - 
+> /f kick -
 
-> /f mod - 
+> /f mod -
 
-> /f coleader - 
+> /f coleader -
 
-> /f leeader - 
+> /f leeader -
 
-> /f chat - 
+> /f chat -
 
-> /f warp - 
+> /f warp -
 
-> /f delwarp - 
+> /f delwarp -
 
-> /f setwarp - 
+> /f setwarp -
 
-> /f version - 
+> /f version -
 
-> /f truce - 
+> /f truce -
 
-> /f alts - 
+> /f alts -
 
-> /f announce - 
+> /f announce -
 
-> /f chatspy - 
+> /f chatspy -
 
-> /f demote - 
+> /f demote -
 
-> /f promote - 
+> /f promote -
 
-> /f description - 
+> /f description -
 
-> /f disband - 
+> /f disband -
 
-> /f fly - 
+> /f fly -
 
-> /f focus - 
+> /f focus -
 
-> /f grace - 
+> /f grace -
 
-> /f unclaimall - 
+> /f unclaimall -
 
-> /f tntfill - 
+> /f tntfill -
 
-> /f stuck - 
+> /f stuck -
 
-> /f strikes - 
+> /f strikes -
 
-> /f status - 
+> /f status -
 
-> /f showinvites - 
+> /f showinvites -
 
-> /f setbanner - 
+> /f setbanner -
 
-> /f seechunk - 
+> /f seechunk -
 
-> /f saveall - 
+> /f saveall -
 
-> /f scoreboard  - 
+> /f scoreboard  -
 
-> /f reload - 
+> /f reload -
 
-> /f promote - 
+> /f promote -
 
-> /f powerboost - 
+> /f powerboost -
 
-> /f power - 
+> /f power -
 
-> /f permanentpower - 
+> /f permanentpower -
 
-> /f permanent - 
+> /f permanent -
 
-> /f paypalset - 
+> /f paypalset -
 
-> /f lock - 
+> /f lock -
 
-> /f upgrades - 
+> /f upgrades -
 
-> /f map - 
+> /f map -
 
-> /f perms - 
+> /f perms -
 
 > /f tnt add/take [amount]
 
-> /f near - 
+> /f near -
 
-> /f checkpoint - 
+> /f checkpoint -
 
-> /f rules - 
+> /f rules -
 
-> /f seechunk - 
+> /f seechunk -
 
-> /f banner - 
+> /f banner -
 
-> /f inspect - 
+> /f inspect -
 
-> /f showclaims - 
+> /f showclaims -
 
-> /f coords - 
+> /f coords -
 
-> /f lowpower - 
+> /f lowpower -
 
-> /f chest - 
+> /f chest -
