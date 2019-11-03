@@ -1,7 +1,7 @@
-site_name: Illyria Documentation
+site_name: illyria Documentation
 nav:
   - Introduction: index.md
-  - IllyriaCore:
+  - illyriaCore:
     - Home: illyriacore/index.md
     - Installation: illyriacore/installation.md
     - 'Getting Started': illyriacore/gettingstarted.md
@@ -10,7 +10,7 @@ nav:
     - Permissions: illyriacore/permissions.md
     - Placeholders: illyriacore/placeholders.md
     - 'Default Files': illyriacore/defaultfiles.md
-  - IllyriaFactions:
+  - illyriaFactions:
     - Home: illyriafactions/index.md
     - Commands: illyriafactions/commands.md
     - 'Default Permissions': illyriafactions/defaultperms.md
@@ -25,31 +25,31 @@ nav:
     - Installation: illyriafactions/installation.md
     - 'Default Files': illyriafactions/defaultfiles.md
     - Placeholders: illyriafactions/placeholders.md
-  - IllyriaBuckets:
+  - illyriaBuckets:
     - Home: illyriabuckets/index.md
     - Installation: illyriabuckets/installation.md
     - Commands: illyriabuckets/commands.md
     - Permissions: illyriabuckets/permissions.md
     - Placeholders: illyriabuckets/placeholders.md
-  - IllyriaCollectors:
+  - illyriaCollectors:
     - Home: illyriacollectors/index.md
     - Installation: illyriacollectors/installation.md
     - Commands: illyriacollectors/commands.md
     - Permissions: illyriacollectors/permissions.md
     - Placeholders: illyriacollectors/placeholders.md
-  - IllyriaDiscord:
+  - illyriaDiscord:
     - Home: illyriadiscord/index.md
     - Installation: illyriadiscord/installation.md
     - Commands: illyriadiscord/commands.md
     - Permissions: illyriadiscord/permissions.md
     - Placeholders: illyriadiscord/placeholders.md
-  - IllyriaFTop:
+  - illyriaFTop:
     - Home: illyriaftop/index.md
     - Installation: illyriaftop/installation.md
     - Commands: illyriaftop/commands.md
     - Permissions: illyriaftop/permissions.md
     - Placeholders: illyriaftop/placeholders.md
-  - IllyriaOutpost:
+  - illyriaOutpost:
     - Home: illyriaoutpost/index.md
     - Installation: illyriaoutpost/installation.md
     - Commands: illyriaoutpost/commands.md
@@ -66,8 +66,8 @@ theme:
   name: 'material'
 extra_css:
   - extra.css
-site_author: 'Illyria'
-site_description: The wiki site for Illyria's products
+site_author: 'illyria'
+site_description: The wiki site for illyria's products
 docs_dir: 'docs'
 site_dir: 'site'
 plugins:
