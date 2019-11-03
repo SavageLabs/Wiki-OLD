@@ -66,3 +66,8 @@ theme:
   name: 'material'
 extra_css:
   - extra.css
+site_author: 'Illyria'
+docs_dir: 'docs'
+site_dir: 'site'
+plugins:
+  - search
