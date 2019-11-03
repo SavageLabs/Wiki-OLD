@@ -3,9 +3,12 @@ nav:
   - Introduction: index.md
   - IllyriaCore:
     - Home: illyriacore/index.md
+    - Installation: illyriacore/installation.md
     - 'Getting Started': illyriacore/gettingstarted.md
     - Features: illyriacore/features.md
-    - Permissons: illyriacore/permissons.md
+    - Commands: illyriacore/commands.md
+    - Permissions: illyriacore/permissions.md
+    - Placeholders: illyriacore/placeholders.md
     - 'Default Files': illyriacore/defaultfiles.md
   - IllyriaFactions:
     - Home: illyriafactions/index.md
@@ -14,10 +17,14 @@ nav:
     - Permissions: illyriafactions/permissions.md
     - 'Configurable Map': illyriafactions/configurablemap.md
     - 'Skript Integration': illyriafactions/skriptintegration.md
-    - 'Claiming System Factions': illyriafactions/systemfactionclaiming.md
+    - 'How To':
+      - Index: illyriafactions/howto.md
+      - 'Factions Map': illyriafactions/fmap.md
+      - 'Claiming System Factions': illyriafactions/systemfactionclaiming.md
     - 'Factions API': illyriafactions/factionsapi.md
     - Installation: illyriafactions/installation.md
     - 'Default Files': illyriafactions/defaultfiles.md
+    - Placeholders: illyriafactions/placeholders.md
   - IllyriaBuckets:
     - Home: illyriabuckets/index.md
     - Installation: illyriabuckets/installation.md
