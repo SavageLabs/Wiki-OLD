@@ -1,5 +1,6 @@
-#Permissions
-| Kit | Abilities |	Permission(s) |
+#illyriaFactions
+###Raw Kit Permissions
+| Kit Name | Abilities |	Permission Node |
 | ----------- | ----------- | ----------- |
 | Admin | All factions permissions to handle anything inside of SavageFactions | factions.kit.admin OR factions.* |
 | (Full)Mod | All factions permissions **except configuration** modification/persistence | factions.kit.mod |
@@ -9,11 +10,8 @@
 | FullMoney | Same as StandardMoney except with the ability to withdraw money from any faction | factions.money.* |
 | StandardMoney | A standard set of economy permissions for players | factions.money.kit.standard |
 
-Raw Kit Permissions
-___
-
-##Full permission list
-| Permission | Description |
+###Full Permission List
+| Permission Node | Description |
 | ----------- | ----------- |
 | factions.admin | Hand over your admin rights to a faction |
 | factions.admin.any | Give or revoke admin status for any player in any faction |
@@ -120,9 +118,6 @@ ___
 | factions.members | Allow opening of member GUI. |
 | factions.fly.bypassnearbyenemycheck | Bypass checking of enemies nearby when flying. |
 | factions.tntfill | Allows players to use /f tntfill |
-
-| SavageFactions 2.0 Permissions | Description |
-| ----------- | ----------- |
 | factions.particle | View Particle GUI |
 | factions.grace | Toggle Factions Grace by /f grace. |
 | factions.alts | Allow people to use /f alts |

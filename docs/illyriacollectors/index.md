@@ -1,4 +1,4 @@
-# illyriaCore
+# illyriaCollectors
 #### [Installation Instructions](installation.md)
 #### [Command Documentation](commands.md)
 #### [Permission Documentation](permissions.md)

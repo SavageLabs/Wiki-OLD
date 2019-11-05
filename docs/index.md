@@ -1,1 +1,1 @@
-# Welcome to the offical Illyira Wiki
+# Welcome to the official illyira Wiki
