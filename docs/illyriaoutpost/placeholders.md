@@ -1,7 +1,7 @@
 #illyriaOutpost
 ##Placeholders
 
-###Full Permissions List
+###Full Placeholder List
 | Placeholder | Description |
 | ----------- | ----------- |
 | %outpost_workinghours% | prints working hours, hours within the outpost is active |

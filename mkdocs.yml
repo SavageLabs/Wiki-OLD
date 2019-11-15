@@ -43,7 +43,7 @@ nav:
     - Commands: illyriadiscord/commands.md
     - Permissions: illyriadiscord/permissions.md
     - Placeholders: illyriadiscord/placeholders.md
-  - illyriaFTop:
+  - illyriaFTOP:
     - Home: illyriaftop/index.md
     - Installation: illyriaftop/installation.md
     - Commands: illyriaftop/commands.md
