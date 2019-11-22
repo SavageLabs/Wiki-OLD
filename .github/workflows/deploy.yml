@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build the Docker image
+      run: |
+        docker build . --file Dockerfile --tag liz3/illyria:wiki
+        docker login --username ${{ secrets.DOCKER_USER }} --password "${{ secrets.DOCKER_PW }}"
+        docker push liz3/illyria:wiki
+    - name: redeploy-service
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: root
+        key: ${{ secrets.SSH_KEY }}
+        port: ${{ secrets.SSH_PORT }}
+        script: |
+         cd /root/apps/wiki
+         docker-compose -f docker-compose-prod.yml pull
+         docker-compose -f docker-compose-prod.yml up -d

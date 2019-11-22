@@ -6,5 +6,5 @@ services:
     restart: always
     container_name: mkdocs
     ports:
-      - "8080:8080" #specify ports forwarding
+      - "3010:8080" #specify ports forwarding
     
