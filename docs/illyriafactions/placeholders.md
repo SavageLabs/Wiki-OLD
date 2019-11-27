@@ -34,6 +34,7 @@ Please note that these are compatible in plugins that support PlaceholderAPI rel
 | %factionsuuid_faction_power% | Faction's current power |
 | %factionsuuid_faction_powermax% | Faction's max power |
 | %factionsuuid_faction_description% | Faction's long description |
+| %factionsuuid_faction_can_see_online% | Displays all Faction members except players who are vanished |
 | %factionsuuid_faction_claims% | Number of claimed chunks |
 | %factionsuuid_faction_founded% | Date your faction was founded |
 | %factionsuuid_faction_joining% | If your faction is allowing new members |
