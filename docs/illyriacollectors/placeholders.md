@@ -1,7 +1,7 @@
 #illyriaCollectors
 ##Placeholders
 
-###Full Permissions List
+###Full Placeholder List
 | Placeholder | Description |
 | ----------- | ----------- |
 |  |  |
