@@ -1,10 +1,7 @@
 #illyriaFactions
 ###Default Files
 
-###board.json
-<details>
-<summary>board.json</summary>
-
+######board.json
 	{
 	"baseCommandAliases": [
 		"f"
@@ -587,12 +584,8 @@
 	"fchestEnabled": true,
 	"fchestInventoryTitle": "&2&lFaction Chest"
 	}
-</details>
 ___
-###config.yml
-<details>
-<summary>config.json</summary>
-
+######config.yml
 	# SavageFactions by ProSavage
 	# Report issues: https://github.com/ProSavage/SavageFactions/issues/new
 	# Live support: https://discord.gg/W9dv9WP
@@ -1586,11 +1579,8 @@ ___
 	# - {max-enemies}   : Max # of enemies a faction can have
 	# - {factionless}   : Count of all factionless players online
 
-</details>
 ___
-###factions.json
-<details>
-<summary>factions.json</summary>
+######factions.json
 	{
 	"0": {
 		"rules": {},
@@ -2377,11 +2367,8 @@ ___
 	}
 	}
 	
-</details>
 ___
-###lang.yml
-<details>
-<summary>lang.yml</summary>
+######lang.yml
 
 	# Lang file for SavageFactions by drtshock & ProSavage
 	# Use & for color codes.
@@ -3485,13 +3472,8 @@ ___
 	ALREADY: '&cYou are already warming up.'
 	CANCELLED: '&cYou have cancelled your warmup.'
 	
-
-</details>
 ___
-###tags.json
-
-<details>
-<summary>tags.json</summary>
+######tags.json
 
 	{
 	"l": "<green>",
@@ -3504,5 +3486,3 @@ ___
 	"c": "<aqua>",
 	"plugin": "<teal>"
 	}
-
-</details>
