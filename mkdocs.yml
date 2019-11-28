@@ -60,7 +60,7 @@ theme:
 extra_css:
   - extra.css
 site_author: 'illyria'
-site_description: The wiki site for illyria's products
+site_description: Plugin Documentation
 docs_dir: 'docs'
 site_dir: 'site'
 plugins:
