@@ -46,7 +46,7 @@
 
 > /f coleader -
 
-> /f leeader -
+> /f leader -
 
 > /f chat -
 
